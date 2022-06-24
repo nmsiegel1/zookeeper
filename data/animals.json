@@ -108,6 +108,51 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Moosie",
+      "species": "Cow",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Moosie",
+      "species": "Cow",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Moosie",
+      "species": "Cow",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Pancakes",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Biscuits",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
